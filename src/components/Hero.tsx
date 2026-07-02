@@ -19,7 +19,7 @@ export default function Hero() {
 
       <div className="relative max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-24 sm:py-32 lg:py-40">
         <div className="max-w-2xl">
-          <p className="text-amber text-sm font-semibold uppercase tracking-widest mb-4">
+          <p className="text-cream text-sm font-semibold uppercase tracking-widest mb-4">
             {farmInfo.location}
           </p>
           <h1 className="font-heading text-4xl sm:text-5xl lg:text-6xl font-bold text-cream leading-tight mb-6">

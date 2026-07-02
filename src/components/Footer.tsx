@@ -17,7 +17,7 @@ export default function Footer() {
 
           {/* Quick links */}
           <div>
-            <h4 className="font-semibold text-sm uppercase tracking-widest text-amber mb-3">Links</h4>
+            <h4 className="font-semibold text-sm uppercase tracking-widest text-cream mb-3">Links</h4>
             <ul className="space-y-2 text-sm">
               {[
                 { href: "/", label: "Home" },
@@ -36,7 +36,7 @@ export default function Footer() {
 
           {/* Contact */}
           <div>
-            <h4 className="font-semibold text-sm uppercase tracking-widest text-amber mb-3">Get in Touch</h4>
+            <h4 className="font-semibold text-sm uppercase tracking-widest text-cream mb-3">Get in Touch</h4>
             <ul className="space-y-2 text-sm text-cream/80">
               {farmInfo.email && (
                 <li>
@@ -61,7 +61,7 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="mt-10 pt-6 border-t border-green-light text-center text-xs text-cream/50">
+        <div className="mt-10 pt-6 border-t border-green-light text-center text-xs text-cream/80">
           © {year} {farmInfo.name}. All rights reserved.
         </div>
       </div>

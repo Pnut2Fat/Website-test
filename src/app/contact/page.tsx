@@ -13,7 +13,7 @@ export default function ContactPage() {
     <>
       {/* Header */}
       <section className="bg-green py-14 px-4 sm:px-6 lg:px-8 text-center">
-        <p className="text-amber text-sm font-semibold uppercase tracking-widest mb-3">Say hello</p>
+        <p className="text-cream text-sm font-semibold uppercase tracking-widest mb-3">Say hello</p>
         <h1 className="font-heading text-4xl sm:text-5xl font-bold text-cream mb-4">
           Get in Touch
         </h1>
