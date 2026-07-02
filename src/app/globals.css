@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@theme {
+  /* Farm color palette */
+  --color-amber:        #D4A853;
+  --color-amber-light:  #E8C98A;
+  --color-amber-dark:   #A87C2E;
+  --color-green:        #2D5016;
+  --color-green-light:  #4A7A28;
+  --color-cream:        #FDF8F0;
+  --color-cream-dark:   #F5ECD8;
+  --color-barn:         #8B2500;
+  --color-brown:        #3E2723;
+  --color-brown-light:  #6D4C41;
+
+  /* Fonts */
+  --font-heading: var(--font-playfair);
+  --font-body:    var(--font-lato);
+}
+
+body {
+  background-color: #FDF8F0;
+  color: #3E2723;
+  font-family: var(--font-lato), Georgia, serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-playfair), Georgia, serif;
+}
