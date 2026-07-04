@@ -56,7 +56,7 @@ export default function ProductsPage() {
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
           {[
-            { title: "Richer yolks", body: "Pasture-raised hens produce eggs with deeper orange yolks — a sign of higher nutrients and a better diet." },
+            { title: "Richer yolks", body: "Pasture-raised hens produce eggs with deeper orange yolks, a sign of higher nutrients and a better diet." },
             { title: "No additives", body: "No antibiotics, no hormones, no shortcuts. Just eggs from healthy, well-cared-for chickens." },
             { title: "You know where they came from", body: "These eggs come from one small flock on one piece of land. You can ask us anything about how they were raised." },
             { title: "Collected fresh daily", body: "We gather eggs every morning. By the time they reach you, they're as fresh as an egg can be." },

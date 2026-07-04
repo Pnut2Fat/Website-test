@@ -16,7 +16,7 @@ export default function AboutPage() {
         <p className="text-cream text-sm font-semibold uppercase tracking-widest mb-3">Our homestead</p>
         <h1 className="font-heading text-4xl sm:text-5xl font-bold text-cream mb-4">About Us</h1>
         <p className="text-cream/80 max-w-md mx-auto">
-          A small family operation doing things the right way — for the chickens, and for you.
+          A small family operation doing things the right way, for the chickens and for you.
         </p>
       </section>
 
